@@ -1,0 +1,1 @@
+220 sgmail.tangche.com ESMTP SecurityGateway 9.0.3; Tue, 18 Mar 2025 17:15:22 +0800

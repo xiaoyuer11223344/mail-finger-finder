@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.ctcai.com
+颁发者: CN=Encryption Everywhere DV TLS CA - G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-08-29
+ 结束: 2025-08-29
+序列号: 9178339454619913814537166743052978853
+签名算法: SHA256-RSA
+版本: 3

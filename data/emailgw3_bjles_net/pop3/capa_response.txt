@@ -1,0 +1,8 @@
++OK Capability list follows
+TOP
+USER
+PIPELINING
+EXPIRE NEVER
+UIDL
+SASL NTLM
+.

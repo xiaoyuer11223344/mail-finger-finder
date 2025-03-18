@@ -1,0 +1,1 @@
+220 gateway2.unionpay.com ESMTP Softmail New MTA Tue, 18 Mar 2025 17:15:41 +0800 (+08)

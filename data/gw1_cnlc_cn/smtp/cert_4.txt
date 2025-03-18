@@ -1,0 +1,9 @@
+========= 证书 4 =========
+主题: CN=AAA Certificate Services,O=Comodo CA Limited,L=Salford,ST=Greater Manchester,C=GB
+颁发者: CN=AAA Certificate Services,O=Comodo CA Limited,L=Salford,ST=Greater Manchester,C=GB
+有效期:
+ 开始: 2004-01-01
+ 结束: 2028-12-31
+序列号: 1
+签名算法: SHA1-RSA
+版本: 3

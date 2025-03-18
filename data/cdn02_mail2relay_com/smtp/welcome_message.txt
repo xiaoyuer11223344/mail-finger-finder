@@ -1,0 +1,1 @@
+220 cdn.mail2relay.com ESMTP

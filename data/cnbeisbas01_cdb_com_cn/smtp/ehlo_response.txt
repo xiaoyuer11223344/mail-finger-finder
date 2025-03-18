@@ -1,0 +1,3 @@
+250-Welcome to my smtp server
+250-PIPELINING
+250 8BITMIME

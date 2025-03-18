@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=Certum Trusted Network CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL
+颁发者: CN=Certum Trusted Network CA,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL
+有效期:
+ 开始: 2008-10-22
+ 结束: 2029-12-31
+序列号: 279744
+签名算法: SHA1-RSA
+版本: 3

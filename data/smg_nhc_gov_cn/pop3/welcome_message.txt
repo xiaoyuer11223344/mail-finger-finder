@@ -1,0 +1,1 @@
+-ERR pop3-proxy Cannot connect to server

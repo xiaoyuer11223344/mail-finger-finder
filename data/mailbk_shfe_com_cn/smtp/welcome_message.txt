@@ -1,0 +1,1 @@
+220 pd.mailgate ESMTP Softmail New MTA Tue, 18 Mar 2025 17:07:33 +0800 (+08)

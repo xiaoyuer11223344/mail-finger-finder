@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB
+颁发者: CN=USERTrust RSA Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US
+有效期:
+ 开始: 2018-11-02
+ 结束: 2030-12-31
+序列号: 166627644428940058458651716034439089575
+签名算法: SHA384-RSA
+版本: 3

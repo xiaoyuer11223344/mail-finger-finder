@@ -1,0 +1,6 @@
+250-edgebj.hnair.com Hello mx.baidu.com [39.144.124.0], pleased to meet you
+250-SIZE 36700160
+250-STARTTLS
+250-PIPELINING
+250-8BITMIME
+250 HELP

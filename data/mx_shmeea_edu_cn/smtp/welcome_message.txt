@@ -1,0 +1,1 @@
+220 mail-server-domain ESMTP mail service ready

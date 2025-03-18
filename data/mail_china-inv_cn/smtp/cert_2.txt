@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=RapidSSL Global TLS RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US
+颁发者: CN=DigiCert Global Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2022-05-04
+ 结束: 2031-11-09
+序列号: 13321388222987199311965527069047470243
+签名算法: SHA256-RSA
+版本: 3

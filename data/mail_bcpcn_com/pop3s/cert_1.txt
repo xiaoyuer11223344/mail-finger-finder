@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.ec.com.cn,O=中国国际电子商务中心,L=北京市,ST=北京市,C=CN
+颁发者: CN=Xcc Trust OV SSL CA,O=Beijing Xinchacha Credit Management Co.\, Ltd.,C=CN
+有效期:
+ 开始: 2024-09-13
+ 结束: 2025-09-13
+序列号: 108085457079278918297360197222294383592
+签名算法: SHA256-RSA
+版本: 3

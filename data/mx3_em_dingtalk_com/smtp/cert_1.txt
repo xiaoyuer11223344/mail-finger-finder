@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.aliyun.com,O=Alibaba (China) Technology Co.\, Ltd.,L=HangZhou,ST=ZheJiang,C=CN
+颁发者: CN=GlobalSign GCC R3 OV TLS CA 2024,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2024-12-03
+ 结束: 2025-09-04
+序列号: 9532903812920174162393182629
+签名算法: SHA256-RSA
+版本: 3

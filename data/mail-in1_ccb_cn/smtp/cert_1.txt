@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail-in1.ccb.com,O=China Construction Bank,ST=北京市,C=CN
+颁发者: CN=Secure Site Pro CA G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-12-09
+ 结束: 2026-01-09
+序列号: 9053349916534120612662771237568087472
+签名算法: SHA256-RSA
+版本: 3

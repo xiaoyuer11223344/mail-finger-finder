@@ -1,0 +1,6 @@
+250-rg.shenzhenair.com Hello mx.baidu.com [39.144.124.8], pleased to meet you
+250-SIZE 100000000
+250-STARTTLS
+250-PIPELINING
+250-8BITMIME
+250 HELP

@@ -1,0 +1,9 @@
+========= 证书 4 =========
+主题: CN=Baltimore CyberTrust Root,OU=CyberTrust,O=Baltimore,C=IE
+颁发者: CN=Baltimore CyberTrust Root,OU=CyberTrust,O=Baltimore,C=IE
+有效期:
+ 开始: 2000-05-12
+ 结束: 2025-05-12
+序列号: 33554617
+签名算法: SHA1-RSA
+版本: 3

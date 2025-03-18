@@ -1,0 +1,5 @@
+250-mail.huadongcoal.com Hello mx.baidu.com ([39.144.124.48]), pleased to meet you
+250-HELP
+250-AUTH LOGIN
+250-SIZE
+250 PIPELINING

@@ -1,0 +1,5 @@
+250-Welcome to my smtp server (Spammark V8.0)
+250-STARTTLS
+250-PIPELINING
+250-SIZE 41943040
+250 8BITMIME

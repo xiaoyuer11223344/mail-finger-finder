@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=ffspam01.cicc.com
+颁发者: CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US
+有效期:
+ 开始: 2024-11-26
+ 结束: 2025-11-26
+序列号: 4199325091425721620
+签名算法: SHA256-RSA
+版本: 3

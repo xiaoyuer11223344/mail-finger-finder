@@ -1,0 +1,6 @@
++OK Capability list follows
+TOP
+USER
+UIDL
+SASL PLAIN LOGIN
+.

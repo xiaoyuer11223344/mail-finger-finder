@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=www.dominioabsoluto.net,O=Acens Technologies SL,L=Alcobendas,C=ES
+颁发者: CN=Thawte TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-08-16
+ 结束: 2025-09-16
+序列号: 2947626334699465048587815305225961153
+签名算法: SHA256-RSA
+版本: 3

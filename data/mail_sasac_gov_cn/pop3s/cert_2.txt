@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=CUISEC GCC R3 TLS OV CA 2021,O=联通智慧安全科技有限公司,C=CN
+颁发者: CN=GlobalSign,OU=GlobalSign Root CA - R3,O=GlobalSign
+有效期:
+ 开始: 2021-04-21
+ 结束: 2024-04-21
+序列号: 161802325119360241189887394675170308815
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert High Assurance EV Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2013-10-22
+ 结束: 2028-10-22
+序列号: 16582437038678467094619379592629788035
+签名算法: SHA256-RSA
+版本: 3

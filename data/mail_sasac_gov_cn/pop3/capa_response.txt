@@ -1,0 +1,4 @@
++OK Capability list follows
+PIPELINING
+USER
+.

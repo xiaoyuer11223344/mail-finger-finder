@@ -1,0 +1,1 @@
+220 mailgateway.sxbctv.com ESMTP Proxmox

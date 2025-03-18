@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=www.mailgw.com,OU=Development,O=Technology,L=BeiJing,ST=BeiJing,C=CN
+颁发者: CN=mailgw.com,O=mailgw,L=SZ,ST=GZ,C=CN,1.2.840.113549.1.9.1=#0c1061646d696e406d61696c67772e636f6d
+有效期:
+ 开始: 2021-05-07
+ 结束: 2051-04-30
+序列号: 14168745157244918982
+签名算法: SHA256-RSA
+版本: 1

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.gfex.com.cn,O=广州期货交易所股份有限公司,L=广州,ST=广东,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2024-12-24
+ 结束: 2026-01-23
+序列号: 42644357929987164399213695442661286894
+签名算法: SHA256-RSA
+版本: 3

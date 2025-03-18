@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.icoremail.net
+颁发者: CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US
+有效期:
+ 开始: 2024-05-10
+ 结束: 2025-06-11
+序列号: 16421155406221575567
+签名算法: SHA256-RSA
+版本: 3

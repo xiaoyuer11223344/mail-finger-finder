@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.iflytek.com,O=科大讯飞股份有限公司,L=Hefei,ST=Anhui,C=CN
+颁发者: CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2023-11-23
+ 结束: 2024-12-24
+序列号: 4030794186724814845495542642
+签名算法: SHA256-RSA
+版本: 3

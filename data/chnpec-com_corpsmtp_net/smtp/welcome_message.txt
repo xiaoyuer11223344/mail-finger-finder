@@ -1,0 +1,1 @@
+220 globalnet23.corpsmtp.net ESMTP [EO]; Tue, 18 Mar 2025 17:00:34 +0800

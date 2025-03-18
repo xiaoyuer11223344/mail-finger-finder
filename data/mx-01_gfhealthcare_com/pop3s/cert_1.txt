@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.gfhealthcare.com
+颁发者: CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-08-07
+ 结束: 2025-08-07
+序列号: 14822612956017614479426897544520422291
+签名算法: SHA256-RSA
+版本: 3

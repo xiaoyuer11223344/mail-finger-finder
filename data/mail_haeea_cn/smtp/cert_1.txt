@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.haeea.cn,O=河南省教育考试院,L=郑州市,ST=河南省,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2025-01-24
+ 结束: 2026-01-31
+序列号: 42644363520888028559818418775217715494
+签名算法: SHA256-RSA
+版本: 3

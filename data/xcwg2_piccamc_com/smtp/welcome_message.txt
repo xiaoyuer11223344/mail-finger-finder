@@ -1,0 +1,1 @@
+220 mailgw1.picc.com.cn ESMTP Postfix

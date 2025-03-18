@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=localhost,OU=Automatically-generated SMTPD SSL key,O=Mail Server,L=Shen Zhen,ST=GD,C=CN,1.2.840.113549.1.9.1=#0c15706f73746d61737465724068656368656e2e636f6d
+颁发者: CN=localhost,OU=Automatically-generated SMTPD SSL key,O=Mail Server,L=Shen Zhen,ST=GD,C=CN,1.2.840.113549.1.9.1=#0c15706f73746d61737465724068656368656e2e636f6d
+有效期:
+ 开始: 2024-04-26
+ 结束: 2034-04-24
+序列号: 297429253556104565843667142012863468280576499679
+签名算法: SHA256-RSA
+版本: 3

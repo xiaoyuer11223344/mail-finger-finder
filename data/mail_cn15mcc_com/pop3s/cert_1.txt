@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.guoyunmail.com
+颁发者: CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-05-14
+ 结束: 2025-05-14
+序列号: 3459613485783181240927090296023028724
+签名算法: SHA256-RSA
+版本: 3

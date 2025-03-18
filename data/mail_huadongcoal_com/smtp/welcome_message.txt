@@ -1,0 +1,1 @@
+220 mail.huadongcoal.com ESMTP Service (Lotus Domino Release 8.5.3FP6) ready at Tue, 18 Mar 2025 17:06:40 +0800

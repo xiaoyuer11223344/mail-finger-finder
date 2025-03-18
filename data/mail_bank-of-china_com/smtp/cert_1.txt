@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.bank-of-china.com,O=Bank of China Limited,ST=Beijing,C=CN
+颁发者: CN=Secure Site Pro CA G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-06-18
+ 结束: 2025-07-09
+序列号: 11098796541523860758550870076440871061
+签名算法: SHA256-RSA
+版本: 3

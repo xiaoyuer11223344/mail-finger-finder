@@ -1,0 +1,7 @@
+250-barracuda.yapp.com Hello mx.baidu.com [39.144.124.48], pleased to meet you
+250-SIZE 36000000
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-PIPELINING
+250-8BITMIME
+250 HELP

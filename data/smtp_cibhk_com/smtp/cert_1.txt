@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=smtp.cibhk.com,O=Industrial Bank Co.\, Ltd.,L=Central,C=HK
+颁发者: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-08-13
+ 结束: 2025-08-13
+序列号: 7081276650857743096923028419689933517
+签名算法: SHA256-RSA
+版本: 3

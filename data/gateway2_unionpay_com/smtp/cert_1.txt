@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.unionpay.com,O=中国银联股份有限公司,ST=上海市,C=CN
+颁发者: CN=GeoTrust TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-06-18
+ 结束: 2025-07-05
+序列号: 16412456881059985164877637089300411305
+签名算法: SHA256-RSA
+版本: 3

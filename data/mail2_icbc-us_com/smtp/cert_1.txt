@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail2.us.icbc.com.cn,O=Industrial and Commercial Bank of China (USA)\, NA,L=New York,ST=New York,C=US
+颁发者: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-06-21
+ 结束: 2025-07-22
+序列号: 12259032909481125233897330866428655957
+签名算法: SHA256-RSA
+版本: 3

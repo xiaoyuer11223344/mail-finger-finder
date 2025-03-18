@@ -1,0 +1,1 @@
+220 skip.intel-email.com ESMTP Postfix

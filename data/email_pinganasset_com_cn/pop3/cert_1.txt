@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=pinganasset.com.cn
+颁发者: CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2023-01-30
+ 结束: 2024-01-29
+序列号: 4266409050215537549550416568479541314
+签名算法: SHA256-RSA
+版本: 3

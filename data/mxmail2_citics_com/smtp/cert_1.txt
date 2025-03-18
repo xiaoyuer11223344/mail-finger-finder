@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: SERIALNUMBER=914403001017814402,CN=mxmail.citics.com,O=CITIC Securities Co.\, Ltd.,L=Shenzhen,ST=Guangdong Province,C=CN,2.5.4.15=#131450726976617465204f7267616e697a6174696f6e,1.3.6.1.4.1.311.60.2.1.1=#13085368656e7a68656e,1.3.6.1.4.1.311.60.2.1.2=#13124775616e67646f6e672050726f76696e6365,1.3.6.1.4.1.311.60.2.1.3=#1302434e
+颁发者: CN=DigiCert SHA2 Extended Validation Server CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-09-18
+ 结束: 2025-09-22
+序列号: 16810711442119776741032347107157977800
+签名算法: SHA256-RSA
+版本: 3

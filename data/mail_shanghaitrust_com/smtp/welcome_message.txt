@@ -1,0 +1,1 @@
+220 MailspamB.shanghaitrust.com ESMTP Softmail New MTA Tue, 18 Mar 2025 17:13:44 +0800 (+08)

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=haha,OU=messagesoft,O=messagesoft.com,L=fremont,ST=ca,C=cn
+颁发者: CN=haha,OU=messagesoft,O=messagesoft.com,L=fremont,ST=ca,C=cn
+有效期:
+ 开始: 2003-03-20
+ 结束: 2003-06-18
+序列号: 1048201103
+签名算法: MD5-RSA
+版本: 1

@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=Crrcelectric RSA Root,OU=CA,O=Crrcelectric,L=Zhuzhou,ST=Hunan,C=CN
+颁发者: CN=Crrcelectric RSA Root,OU=CA,O=Crrcelectric,L=Zhuzhou,ST=Hunan,C=CN
+有效期:
+ 开始: 2023-01-12
+ 结束: 2050-05-30
+序列号: 268054634314977934073386566770208841302239795424
+签名算法: SHA256-RSA
+版本: 3

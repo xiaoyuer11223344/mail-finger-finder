@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=Entrust Certification Authority - L1K,OU=See www.entrust.net/legal-terms+OU=(c) 2012 Entrust\, Inc. - for authorized use only,O=Entrust\, Inc.,C=US
+颁发者: CN=Entrust Root Certification Authority - G2,OU=See www.entrust.net/legal-terms+OU=(c) 2009 Entrust\, Inc. - for authorized use only,O=Entrust\, Inc.,C=US
+有效期:
+ 开始: 2015-10-05
+ 结束: 2030-12-05
+序列号: 4614832350436832027625092997
+签名算法: SHA256-RSA
+版本: 3

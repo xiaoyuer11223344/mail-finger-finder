@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.rails.cn,O=中国铁道科学研究院集团有限公司,L=北京市,ST=北京市,C=CN
+颁发者: CN=GDCA TrustAUTH R4 OV SSL CA,O=Global Digital Cybersecurity Authority Co.\, Ltd.,C=CN
+有效期:
+ 开始: 2024-05-07
+ 结束: 2025-06-07
+序列号: 60713018760813671649152702969949315284
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,1 @@
+220 spam01.cicc.com ESMTP Softmail New MTA Tue, 18 Mar 2025 17:00:45 +0800 (GMT-8)

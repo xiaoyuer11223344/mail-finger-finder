@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.greenradar.com
+颁发者: CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US
+有效期:
+ 开始: 2024-05-09
+ 结束: 2025-06-10
+序列号: 13452431655975844348
+签名算法: SHA256-RSA
+版本: 3

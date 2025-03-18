@@ -1,0 +1,1 @@
+421 pepi1mx-mfesh03.ad.aruba.it Aruba Bmail MailXchanger  uSkSteED7Ufp0 IP 39.144.124.32 reverse non valido / Your IP 39.144.124.32 has no valid reverse DNS (PTR)

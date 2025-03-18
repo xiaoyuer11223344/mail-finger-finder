@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=TrustAsia TLS RSA CA,OU=Domain Validated SSL,O=TrustAsia Technologies\, Inc.,C=CN
+颁发者: CN=DigiCert Global Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2017-12-08
+ 结束: 2027-12-08
+序列号: 7311534772508790650765434802415791662
+签名算法: SHA256-RSA
+版本: 3

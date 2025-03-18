@@ -1,0 +1,1 @@
+220 mailb.faw.com.cn ESMTP Softmail New MTA Tue, 18 Mar 2025 17:05:03 +0800 (GMT-8)

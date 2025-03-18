@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=GDCA TrustAUTH R4 DV SSL CA G2,O=Global Digital Cybersecurity Authority Co.\, Ltd.,C=CN
+颁发者: CN=Certum Global Services CA SHA2,OU=Certum Certification Authority,O=Unizeto Technologies S.A.,C=PL
+有效期:
+ 开始: 2018-01-26
+ 结束: 2027-05-20
+序列号: 210831724780261875654614751159635123964
+签名算法: SHA256-RSA
+版本: 3

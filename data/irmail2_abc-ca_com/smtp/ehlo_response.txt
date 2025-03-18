@@ -1,0 +1,3 @@
+250-irmail2.abc-ca.com
+250-8BITMIME
+250 SIZE 52428800

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.mail.am0.yahoodns.net,O=Yahoo Holdings Inc.,L=New York,ST=New York,C=US
+颁发者: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-12-24
+ 结束: 2025-06-18
+序列号: 15988611243649570135918421840032328185
+签名算法: SHA256-RSA
+版本: 3

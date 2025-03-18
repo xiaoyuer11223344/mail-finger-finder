@@ -1,0 +1,1 @@
+220 globalnet19.corpsmtp.net ESMTP [EK]; Tue, 18 Mar 2025 17:00:37 +0800

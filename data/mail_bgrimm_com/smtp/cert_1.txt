@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.bgrimm.com
+颁发者: CN=Encryption Everywhere DV TLS CA - G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-08-02
+ 结束: 2025-08-02
+序列号: 4155582110303247825588831212171469967
+签名算法: SHA256-RSA
+版本: 3

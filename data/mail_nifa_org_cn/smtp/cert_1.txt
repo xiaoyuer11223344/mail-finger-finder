@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=ucsfbfepool01.corp.sinochem.com,OU=Domain Control Validated
+颁发者: CN=Go Daddy Secure Certificate Authority - G2,OU=http://certs.godaddy.com/repository/,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US
+有效期:
+ 开始: 2021-06-22
+ 结束: 2022-07-24
+序列号: 854273623725622490
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,9 @@
+========= 证书 4 =========
+主题: OU=Go Daddy Class 2 Certification Authority,O=The Go Daddy Group\, Inc.,C=US
+颁发者: OU=Go Daddy Class 2 Certification Authority,O=The Go Daddy Group\, Inc.,C=US
+有效期:
+ 开始: 2004-06-29
+ 结束: 2034-06-29
+序列号: 0
+签名算法: SHA1-RSA
+版本: 3

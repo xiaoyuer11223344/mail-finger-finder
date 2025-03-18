@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.mimecast.com,O=Mimecast Services Limited,L=London,C=GB
+颁发者: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2025-01-24
+ 结束: 2026-02-24
+序列号: 13149199905107586179594369005637265104
+签名算法: SHA256-RSA
+版本: 3

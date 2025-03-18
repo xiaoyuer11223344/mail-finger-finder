@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=IdenTrust Commercial Root CA 1,O=IdenTrust,C=US
+颁发者: CN=IdenTrust Commercial Root CA 1,O=IdenTrust,C=US
+有效期:
+ 开始: 2014-01-16
+ 结束: 2034-01-16
+序列号: 13298821034946342390520003877796839426
+签名算法: SHA256-RSA
+版本: 3

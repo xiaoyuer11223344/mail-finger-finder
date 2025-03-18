@@ -1,0 +1,3 @@
+250-mail02.scc.com.cn
+250-8BITMIME
+250 SIZE 104857600

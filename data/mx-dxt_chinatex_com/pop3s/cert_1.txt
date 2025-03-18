@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.chinatex.com,O=中国中纺集团有限公司,ST=北京市,C=CN
+颁发者: CN=WoTrus OV Server CA  [Run by the Issuer],O=WoTrus CA Limited,C=CN
+有效期:
+ 开始: 2024-08-26
+ 结束: 2025-09-01
+序列号: 208405686406644404757629159816269328803
+签名算法: SHA256-RSA
+版本: 3

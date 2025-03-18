@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.ctg.cn,O=China National Travel Service Group Corporation,L=Haikou,ST=Hainan,C=CN
+颁发者: CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2024-10-17
+ 结束: 2025-11-18
+序列号: 20952828065322570462027130542
+签名算法: SHA256-RSA
+版本: 3

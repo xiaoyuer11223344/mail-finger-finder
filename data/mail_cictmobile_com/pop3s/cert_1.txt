@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.cictmobile.com,O=中信科移动通信技术股份有限公司,ST=湖北省,C=CN
+颁发者: CN=Sectigo RSA Organization Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB
+有效期:
+ 开始: 2024-04-10
+ 结束: 2025-04-10
+序列号: 81898535708626843307027347515831670002
+签名算法: SHA256-RSA
+版本: 3

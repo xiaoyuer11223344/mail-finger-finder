@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2017-11-02
+ 结束: 2027-11-02
+序列号: 14816627491795588044059060260691382010
+签名算法: SHA256-RSA
+版本: 3

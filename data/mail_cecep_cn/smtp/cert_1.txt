@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=spam.cecep.cn
+颁发者: CN=TrustAsia RSA DV TLS CA G2,O=TrustAsia Technologies\, Inc.,C=CN
+有效期:
+ 开始: 2024-10-22
+ 结束: 2025-01-20
+序列号: 28825361764721266774614005691778963687
+签名算法: SHA384-RSA
+版本: 3

@@ -1,0 +1,1 @@
++OK Lotus Notes POP3 server version Release 8.5.3FP6 ready on mailserver/huadongcoal.

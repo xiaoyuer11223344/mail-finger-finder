@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.luckyfilm.com
+颁发者: CN=RapidSSL TLS RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2025-02-18
+ 结束: 2026-02-18
+序列号: 7010800522327471909595215612462295135
+签名算法: SHA256-RSA
+版本: 3

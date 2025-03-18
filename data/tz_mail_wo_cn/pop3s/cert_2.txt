@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=DigiCert Basic RSA CN CA G2,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert Global Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2020-03-04
+ 结束: 2030-03-04
+序列号: 3945536626060115757871306302828950262
+签名算法: SHA256-RSA
+版本: 3

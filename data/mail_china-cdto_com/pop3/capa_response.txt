@@ -1,0 +1,9 @@
++OK Here's what I can do:
+STLS
+TOP
+USER
+LOGIN-DELAY 10
+PIPELINING
+UIDL
+IMPLEMENTATION Courier Mail Server
+.

@@ -1,0 +1,1 @@
+220 cloud.intel-email.com ESMTP Postfix

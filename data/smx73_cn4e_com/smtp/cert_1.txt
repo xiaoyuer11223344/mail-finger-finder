@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.cn4e.com
+颁发者: CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB
+有效期:
+ 开始: 2024-04-17
+ 结束: 2025-04-18
+序列号: 95002437350789999116271690539426963600
+签名算法: SHA256-RSA
+版本: 3

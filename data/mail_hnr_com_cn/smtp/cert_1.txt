@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.chng.com.cn,OU=IT,O=中国华能集团有限公司,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2022-05-19
+ 结束: 2023-06-06
+序列号: 42644369173844111200261370051522710975
+签名算法: SHA256-RSA
+版本: 3

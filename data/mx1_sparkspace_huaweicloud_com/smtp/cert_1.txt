@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.sparkspace.huaweicloud.com,O=Huawei Software Technologies Co.\, Ltd.,L=Nanjing,ST=Jiangsu,C=CN
+颁发者: CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2024-09-04
+ 结束: 2025-10-06
+序列号: 27347703031168475007177337288
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.baihangcredit.com,O=百行征信有限公司,L=深圳市,ST=广东省,C=CN
+颁发者: CN=DigiCert Secure Site OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US
+有效期:
+ 开始: 2024-10-11
+ 结束: 2025-11-10
+序列号: 13895608812353705386015596726373978722
+签名算法: SHA256-RSA
+版本: 3

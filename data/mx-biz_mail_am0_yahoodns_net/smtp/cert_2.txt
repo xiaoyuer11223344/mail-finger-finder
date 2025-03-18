@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=DigiCert Global G2 TLS RSA SHA256 2020 CA1,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2020-09-24
+ 结束: 2030-09-23
+序列号: 11130109190356876515313367046181502506
+签名算法: SHA256-RSA
+版本: 3

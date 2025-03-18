@@ -1,0 +1,6 @@
+250-barracuda.dfafc.com.cn Hello mx.baidu.com [10.18.160.245], pleased to meet you
+250-SIZE 100000000
+250-STARTTLS
+250-PIPELINING
+250-8BITMIME
+250 HELP

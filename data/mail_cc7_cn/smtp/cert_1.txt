@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.cc7.cn
+颁发者: CN=Encryption Everywhere DV TLS CA - G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-10-05
+ 结束: 2025-10-04
+序列号: 11208863989950714284266762769460902008
+签名算法: SHA256-RSA
+版本: 3

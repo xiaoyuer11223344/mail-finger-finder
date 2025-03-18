@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.fiyta.com.cn
+颁发者: CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-09-26
+ 结束: 2025-10-11
+序列号: 17180869293281558215000253464441291200
+签名算法: SHA256-RSA
+版本: 3

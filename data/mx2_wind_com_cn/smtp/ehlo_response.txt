@@ -1,0 +1,5 @@
+250-esmtp service ready
+250-A*TH LOGIN
+250-A*TH=LOGIN
+250-STARTTLS
+250 TLS

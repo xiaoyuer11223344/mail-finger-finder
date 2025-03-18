@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.eqmail.com,OU=spammark,O=Beijing Mission Communication Co. Ltd.,L=Beijing,ST=Beijing,C=CN,1.2.840.113549.1.9.1=#0c18737570706f72744073746166662e65716d61696c2e636f6d
+颁发者: CN=mail.eqmail.com,OU=spammark,O=Beijing Mission Communication Co. Ltd.,L=Beijing,ST=Beijing,C=CN,1.2.840.113549.1.9.1=#0c18737570706f72744073746166662e65716d61696c2e636f6d
+有效期:
+ 开始: 2014-09-25
+ 结束: 2015-09-26
+序列号: 0
+签名算法: MD5-RSA
+版本: 3

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.mcc.com.cn,O=中国冶金科工集团有限公司,L=北京市,ST=北京市,C=CN
+颁发者: CN=Xcc Trust OV SSL CA,O=Beijing Xinchacha Credit Management Co.\, Ltd.,C=CN
+有效期:
+ 开始: 2024-09-04
+ 结束: 2025-09-04
+序列号: 16036439121905382202968762185290271081
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.casic.com.cn
+颁发者: CN=GDCA TrustAUTH R4 DV SSL CA G2,O=Global Digital Cybersecurity Authority Co.\, Ltd.,C=CN
+有效期:
+ 开始: 2023-12-25
+ 结束: 2024-12-24
+序列号: 107292481252262890111159966823236112552
+签名算法: SHA256-RSA
+版本: 3

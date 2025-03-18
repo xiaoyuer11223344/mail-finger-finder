@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.unionpayintl.com,O=UnionPay International Co.\, Ltd.,L=Shanghai,ST=Shanghai,C=CN
+颁发者: CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2024-09-27
+ 结束: 2025-10-29
+序列号: 20107300971415996880250986119
+签名算法: SHA256-RSA
+版本: 3

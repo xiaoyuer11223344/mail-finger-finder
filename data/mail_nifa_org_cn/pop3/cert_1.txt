@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.nifa.org.cn,O=中国互联网金融协会,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2024-11-27
+ 结束: 2025-12-09
+序列号: 42644358143650265677098473132301190959
+签名算法: SHA256-RSA
+版本: 3

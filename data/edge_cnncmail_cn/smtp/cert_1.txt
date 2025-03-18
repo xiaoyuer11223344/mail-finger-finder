@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.cnnc.com.cn,O=中国核工业集团有限公司,L=北京市,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2023-10-18
+ 结束: 2024-10-18
+序列号: 42644363960793834808728155504401138824
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,1 @@
+220 Welcome to my smtp server (Spammark V8.0) ESMTP

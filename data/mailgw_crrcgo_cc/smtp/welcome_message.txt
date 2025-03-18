@@ -1,0 +1,1 @@
+220 mailgw.crrcgo.cc ESMTP Postfix

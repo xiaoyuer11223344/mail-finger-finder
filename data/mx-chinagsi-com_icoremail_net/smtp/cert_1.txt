@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.chinagsi.com,O=广州红帆科技有限公司,L=广州市,ST=广东省,C=CN
+颁发者: CN=GeoTrust CN RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-11-05
+ 结束: 2025-12-06
+序列号: 16868064306456128204766437403339575935
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,1 @@
+220 MX2.icbc.com.cn ESMTP Postfix

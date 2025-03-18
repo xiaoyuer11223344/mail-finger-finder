@@ -1,0 +1,1 @@
+220 cluster-g.mailcontrol.com ESMTP MailControl

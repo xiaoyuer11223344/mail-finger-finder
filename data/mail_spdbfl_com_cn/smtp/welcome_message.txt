@@ -1,0 +1,1 @@
+220 localhost.localdomain MailPlatform SMTP Server Server (MailPlatform SMTP Server) ready

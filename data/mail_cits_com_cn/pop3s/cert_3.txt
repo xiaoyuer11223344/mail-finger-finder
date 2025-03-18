@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=GlobalSign,OU=GlobalSign Root CA - R3,O=GlobalSign
+颁发者: CN=GlobalSign,OU=GlobalSign Root CA - R3,O=GlobalSign
+有效期:
+ 开始: 2009-03-18
+ 结束: 2029-03-18
+序列号: 4835703278459759426209954
+签名算法: SHA256-RSA
+版本: 3

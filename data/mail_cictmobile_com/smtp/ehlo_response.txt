@@ -1,0 +1,7 @@
+250-mail.cictmobile.com Hello mx.baidu.com [39.144.124.8], pleased to meet you
+250-SIZE 51200000
+250-AUTH PLAIN LOGIN
+250-AUTH=PLAIN LOGIN
+250-PIPELINING
+250-8BITMIME
+250 HELP

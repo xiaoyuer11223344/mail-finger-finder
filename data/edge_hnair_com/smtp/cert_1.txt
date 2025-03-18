@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=Barracuda/emailAddress=sales@barracuda.com,OU=Engineering,O=Barracuda Networks,L=Campbell,ST=California,C=US
+颁发者: CN=Barracuda/emailAddress=sales@barracuda.com,OU=Engineering,O=Barracuda Networks,L=Campbell,ST=California,C=US
+有效期:
+ 开始: 2011-09-29
+ 结束: 2031-09-24
+序列号: 2
+签名算法: SHA1-RSA
+版本: 3

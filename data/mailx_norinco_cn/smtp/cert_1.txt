@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.norinco.cn,O=中国北方工业有限公司,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2024-07-30
+ 结束: 2025-07-30
+序列号: 42644372040334115706436731255218432292
+签名算法: SHA256-RSA
+版本: 3

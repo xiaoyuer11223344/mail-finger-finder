@@ -1,0 +1,1 @@
+220 spam1.icfcc.com ESMTP Softmail New MTA Tue, 18 Mar 2025 17:07:14 +0800 (GMT-8)

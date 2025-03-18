@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=DigiCert Basic OV G2 TLS CN RSA4096 SHA256 2022 CA1,O=DigiCert\, Inc.,C=US
+颁发者: CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2022-12-15
+ 结束: 2032-12-14
+序列号: 2939333710299547017267150239444749730
+签名算法: SHA256-RSA
+版本: 3

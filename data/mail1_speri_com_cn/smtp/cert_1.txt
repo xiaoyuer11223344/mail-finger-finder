@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.speri.com.cn,O=上海发电设备成套设计研究院有限责任公司,L=上海市,ST=上海市,C=CN
+颁发者: CN=Xcc Trust OV SSL CA,O=Beijing Xinchacha Credit Management Co.\, Ltd.,C=CN
+有效期:
+ 开始: 2024-12-31
+ 结束: 2025-12-31
+序列号: 31124355233979424020718240186042111274
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,7 @@
++OK Capability list follows
+TOP
+USER
+PIPELINING
+UIDL
+SASL PLAIN
+.

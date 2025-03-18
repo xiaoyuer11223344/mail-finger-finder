@@ -1,0 +1,9 @@
+========= 证书 2 =========
+主题: CN=GeoTrust EV RSA CA G2,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2020-07-02
+ 结束: 2030-07-02
+序列号: 17778797353455473341574655806399419776
+签名算法: SHA256-RSA
+版本: 3

@@ -1,0 +1,6 @@
+250-barracuda.chinastock.com.cn Hello mx.baidu.com [39.144.124.48], pleased to meet you
+250-SIZE 45000000
+250-STARTTLS
+250-PIPELINING
+250-8BITMIME
+250 HELP

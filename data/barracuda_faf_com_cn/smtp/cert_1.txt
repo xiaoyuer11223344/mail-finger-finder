@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.faf.com.cn,O=一汽财务有限公司,L=Changchun,ST=Jilin,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2022-03-04
+ 结束: 2023-03-06
+序列号: 42644374420862370363752449344416966029
+签名算法: SHA256-RSA
+版本: 3

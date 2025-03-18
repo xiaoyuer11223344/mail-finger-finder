@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=Go Daddy Root Certificate Authority - G2,O=GoDaddy.com\, Inc.,L=Scottsdale,ST=Arizona,C=US
+颁发者: OU=Go Daddy Class 2 Certification Authority,O=The Go Daddy Group\, Inc.,C=US
+有效期:
+ 开始: 2014-01-01
+ 结束: 2031-05-30
+序列号: 1828629
+签名算法: SHA256-RSA
+版本: 3

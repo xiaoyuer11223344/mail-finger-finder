@@ -1,0 +1,1 @@
+220 mx6.dns.com.cn ESMTP DNS Email Server

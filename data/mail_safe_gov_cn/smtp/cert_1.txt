@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.safe.gov.cn,O=国家外汇管理局,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2025-02-06
+ 结束: 2026-02-26
+序列号: 42644368587767428387081634261478155342
+签名算法: SHA256-RSA
+版本: 3

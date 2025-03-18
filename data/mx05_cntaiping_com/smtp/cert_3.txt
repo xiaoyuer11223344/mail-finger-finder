@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=DigiCert Global Root G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert Global Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-01-18
+ 结束: 2031-11-09
+序列号: 21102522142526635661076456618353799272
+签名算法: SHA256-RSA
+版本: 3

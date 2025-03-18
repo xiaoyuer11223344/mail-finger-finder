@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=demo.coremail.cn,OU=Coremail,O=Mailtech,L=GuangZhou,ST=GuangDong,C=CN
+颁发者: CN=ca.mailtech.cn,OU=CA,O=Mailtech,L=GuangZhou,ST=GuangDong,C=CN
+有效期:
+ 开始: 2020-04-18
+ 结束: 2120-03-25
+序列号: 12840319124909352610
+签名算法: SHA256-RSA
+版本: 1

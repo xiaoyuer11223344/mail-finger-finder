@@ -1,0 +1,6 @@
++OK Capability list follows
+TOP
+USER
+SASL PLAIN LOGIN
+STLS
+.

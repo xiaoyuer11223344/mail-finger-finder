@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.cwewater.com,OU=Winmai,L=guiyang,ST=GY,C=CN
+颁发者: CN=mail.cwewater.com,OU=Winmai,L=guiyang,ST=GY,C=CN
+有效期:
+ 开始: 2019-03-11
+ 结束: 2029-03-08
+序列号: 0
+签名算法: SHA256-RSA
+版本: 1

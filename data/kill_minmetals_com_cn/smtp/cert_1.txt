@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.minmetals.com.cn,O=中国五矿集团有限公司,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2024-07-16
+ 结束: 2025-07-16
+序列号: 42644359741440378655008442786213234597
+签名算法: SHA256-RSA
+版本: 3

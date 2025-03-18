@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.avic.com
+颁发者: CN=Encryption Everywhere DV TLS CA - G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-09-02
+ 结束: 2025-09-24
+序列号: 12209491858169097467654209627760728326
+签名算法: SHA256-RSA
+版本: 3

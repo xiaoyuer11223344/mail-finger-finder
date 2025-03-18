@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.msfl.com.cn,O=民生金融租赁股份有限公司,L=Tianjin,ST=Tianjin,C=CN
+颁发者: CN=GlobalSign RSA OV SSL CA 2018,O=GlobalSign nv-sa,C=BE
+有效期:
+ 开始: 2024-06-13
+ 结束: 2025-07-15
+序列号: 10776088976862020199702136553
+签名算法: SHA256-RSA
+版本: 3

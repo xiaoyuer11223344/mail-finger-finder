@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.rmd-safe.gov.cn,O=国家外汇管理局储备管理司,L=北京,ST=北京,C=CN
+颁发者: CN=CFCA OV OCA,O=China Financial Certification Authority,C=CN
+有效期:
+ 开始: 2024-11-25
+ 结束: 2025-11-25
+序列号: 42644373695460408403908766490622603081
+签名算法: SHA256-RSA
+版本: 3

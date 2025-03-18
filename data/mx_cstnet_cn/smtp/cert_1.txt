@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.cstnet.cn,O=Chinese Academy of Sciences Computer Network Information Center,ST=beijing,C=CN
+颁发者: CN=Secure Site CA G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2022-02-17
+ 结束: 2023-03-10
+序列号: 15616392678229290551689266369799956056
+签名算法: SHA256-RSA
+版本: 3

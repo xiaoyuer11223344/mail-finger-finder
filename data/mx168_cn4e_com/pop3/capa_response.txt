@@ -1,0 +1,9 @@
++OK Capability list follows
+USER
+PIPELINING
+UIDL
+LIST
+RETR
+TOP
+QUIT
+.

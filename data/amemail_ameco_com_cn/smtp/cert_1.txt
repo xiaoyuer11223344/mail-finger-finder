@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.ameco.com.cn,O=北京飞机维修工程有限公司,ST=北京市,C=CN
+颁发者: CN=WoTrus OV Server CA  [Run by the Issuer],O=WoTrus CA Limited,C=CN
+有效期:
+ 开始: 2024-06-14
+ 结束: 2025-06-14
+序列号: 340156532662395664537277550770643671710
+签名算法: SHA256-RSA
+版本: 3

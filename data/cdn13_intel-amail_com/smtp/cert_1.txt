@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.intel-email.com
+颁发者: CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchester,C=GB
+有效期:
+ 开始: 2024-09-02
+ 结束: 2025-09-02
+序列号: 305001915985351057162007090681650675580
+签名算法: SHA256-RSA
+版本: 3

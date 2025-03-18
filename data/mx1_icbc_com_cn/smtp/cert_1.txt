@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.icbc.com.cn,O=Industrial and Commercial Bank of China Limited,ST=Beijing,C=CN
+颁发者: CN=Secure Site Pro CA G2,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-12-23
+ 结束: 2025-12-23
+序列号: 4815924466410234123118769211469361164
+签名算法: SHA256-RSA
+版本: 3

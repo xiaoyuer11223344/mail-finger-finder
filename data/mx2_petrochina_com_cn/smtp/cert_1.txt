@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=mail.petrochina.com.cn,OU=Mail System,O=RIPED,L=Beijing,ST=Beijing,C=CN
+颁发者: CN=设备证书中心_RSA,O=CNPC,C=CN
+有效期:
+ 开始: 2020-08-20
+ 结束: 2040-08-15
+序列号: 5948631233550351735
+签名算法: SHA256-RSA
+版本: 3

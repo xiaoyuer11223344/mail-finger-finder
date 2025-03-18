@@ -1,0 +1,9 @@
+========= 证书 3 =========
+主题: CN=DigiCert High Assurance EV Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+颁发者: CN=DigiCert High Assurance EV Root CA,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2006-11-10
+ 结束: 2031-11-10
+序列号: 3553400076410547919724730734378100087
+签名算法: SHA1-RSA
+版本: 3

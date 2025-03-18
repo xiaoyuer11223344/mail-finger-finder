@@ -1,0 +1,5 @@
+250-daqi-china.com Hello ************. mx.baidu.com[39.144.124.8]
+250-8BITMIME
+250-AUTH LOGIN
+250-AUTH=LOGIN
+250 OK

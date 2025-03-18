@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.yunyou.top
+颁发者: CN=TrustAsia RSA DV TLS CA G2,O=TrustAsia Technologies\, Inc.,C=CN
+有效期:
+ 开始: 2023-07-20
+ 结束: 2024-08-18
+序列号: 283970205323988963105662019462197898636
+签名算法: SHA384-RSA
+版本: 3

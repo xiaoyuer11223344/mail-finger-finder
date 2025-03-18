@@ -1,0 +1,9 @@
+========= 证书 1 =========
+主题: CN=*.sina.net,O=Sina.com Technology(China)Co.\,ltd,ST=Beijing,C=CN
+颁发者: CN=GeoTrust CN RSA CA G1,OU=www.digicert.com,O=DigiCert Inc,C=US
+有效期:
+ 开始: 2024-01-12
+ 结束: 2025-02-11
+序列号: 6032034026988306038037093638763634323
+签名算法: SHA256-RSA
+版本: 3
